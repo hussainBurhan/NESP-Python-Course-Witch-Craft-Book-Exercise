@@ -1,0 +1,3 @@
+Python's most basic use case is as a scripting and automation language.
+Python isn’t just a replacement for shell scripts or batch files; it is also used to automate interactions with web browsers and application GUIs, or to do system provisioning and configuration in tools such as Ansible and Salt.
+But scripting and automation represent only the tip of the iceberg with Python.
